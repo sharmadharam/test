@@ -28,7 +28,7 @@ a. cd /afx/shared
 
 a. bin/nxlm --list all –report
 
-![](./lic-images/NL-img.002.jpeg)
+![](./lic-images/NL-img.002.png)
 
 6. **When no license installed**
 
